@@ -1,0 +1,41 @@
+
+/**
+ include anouther files here 
+*/
+
+
+
+/*
+
+is the static style for main page 
+
+*/
+body{
+    background:gray;
+}
+
+
+.works
+{
+    margin-left:50%;
+}
+
+.navbar-brand
+{
+    margin-left:15%;
+}
+.navbar-brand .sp2
+{
+    color:orange;
+}
+.navbar-nav
+{
+    margin-left:15%;
+}
+
+.carousel-inner
+{
+    height:900px;
+    
+}
+
